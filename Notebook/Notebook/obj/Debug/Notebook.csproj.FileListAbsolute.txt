@@ -1,0 +1,14 @@
+C:\Users\karin\source\repos\Notebook\Notebook\obj\Debug\Notebook.csprojAssemblyReference.cache
+C:\Users\karin\source\repos\Notebook\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+C:\Users\karin\source\repos\Notebook\Notebook\bin\Debug\Notebook.exe.config
+C:\Users\karin\source\repos\Notebook\Notebook\bin\Debug\Notebook.exe
+C:\Users\karin\source\repos\Notebook\Notebook\bin\Debug\Notebook.pdb
+C:\Users\karin\source\repos\Notebook\Notebook\obj\Debug\Notebook.exe
+C:\Users\karin\source\repos\Notebook\Notebook\obj\Debug\Notebook.pdb
+C:\Users\karin\OneDrive\Рабочий стол\Notebook\Notebook\bin\Debug\Notebook.exe.config
+C:\Users\karin\OneDrive\Рабочий стол\Notebook\Notebook\bin\Debug\Notebook.exe
+C:\Users\karin\OneDrive\Рабочий стол\Notebook\Notebook\bin\Debug\Notebook.pdb
+C:\Users\karin\OneDrive\Рабочий стол\Notebook\Notebook\obj\Debug\Notebook.csprojAssemblyReference.cache
+C:\Users\karin\OneDrive\Рабочий стол\Notebook\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+C:\Users\karin\OneDrive\Рабочий стол\Notebook\Notebook\obj\Debug\Notebook.exe
+C:\Users\karin\OneDrive\Рабочий стол\Notebook\Notebook\obj\Debug\Notebook.pdb
